@@ -12,19 +12,19 @@
     "mobile",
     "app"
   ],
-  "homepage": "https://github.com/diegonetto/generator-ionic",
+  "homepage": "https://github.com/guillermo-sanz/generador-ionic-slash",
   "bugs": {
-    "url": "https://github.com/diegonetto/generator-ionic/issues"
+    "url": ""
   },
   "author": {
     "name": "Guillermo Sanz",
     "email": "guillermo.sanz@slashmobility.com",
-    "url": "https://github.com/diegonetto"
+    "url": "https://github.com/guillermo-sanz"
   },
   "main": "app/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/diegonetto/generator-ionic.git"
+    "url": "git://github.com/slashmobility/generator-ionic-slash.git"
   },
   "scripts": {
     "test": "mocha --timeout 5000"
